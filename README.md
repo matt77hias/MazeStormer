@@ -13,10 +13,8 @@ Course Problem solving and Design Computer Science: MazeStormer
 
 **Academic Year**: 2012-2013 (1st + 2nd semester - 3th Bachelor of Science in Engineering: Computer Science)
 
-## About
+## Video
 
-<iframe  title="Traversing the Seesaw" width="480" height="390" src="https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1" frameborder="0" allowfullscreen></iframe>
+[![Traversing the Seesaw](http://img.youtube.com/vi/PkklxX5FeSE/0.jpg)](https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1 "Traversing the Seesaw")
 
-<iframe  title="Object Capturing" width="480" height="390" src="https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-[![Traversing the Seesaw](http://img.youtube.com/vi/v=PkklxX5FeSE/0.jpg)](https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1 "Everything Is AWESOME")
+[![Object Capturing](http://img.youtube.com/vi/WiFAeo-Ifsk/0.jpg)](https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1 "Object Capturing")
