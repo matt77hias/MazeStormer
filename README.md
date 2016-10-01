@@ -1,17 +1,12 @@
-MazeStormer
-===========
+# MazeStormer
 
-A robot that storms through mazes and steals all the treasures, powered by LEGO NXT.
+Course Problem solving and Design: Computer Sciences: MazeStormer
 
-This project is part of the course *Problem solving and Design: Computer Sciences* from the Computer Sciences department at KU Leuven.
+**Team Bronze**:
+* [Dennis Frett](https://github.com/dennis-frett) (Computer Science)
+* [Mattias Buelens](http://github.com/MattiasBuelens) (Computer Science)
+* [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
+* [Stijn Hoskes](https://github.com/stijnhoskens) (Computer Science)
+* [Vital D'haveloose](http://github.com/vital-dhaveloose) (Computer Science)
 
-Team
-----
-
-Our code name may be Team Bronze, but we're going for gold!
-
-- [Mattias Buelens](http://github.com/MattiasBuelens)
-- [Vital D'haveloose](http://github.com/vital-dhaveloose)
-- [Dennis Frett](https://github.com/dennis-frett)
-- [Stijn Hoskes](https://github.com/stijnhoskens)
-- [Matthias Moulin](http://github.com/matt77hias)
+**Academic Year**: 2012-2013 (1st + 2nd semester - 3th Bachelor of Science in Engineering: Computer Science)
