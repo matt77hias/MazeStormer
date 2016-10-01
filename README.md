@@ -14,7 +14,7 @@ Course Problem solving and Design Computer Science: MazeStormer
 **Academic Year**: 2012-2013 (1st + 2nd semester - 3th Bachelor of Science in Engineering: Computer Science)
 
 ## About
-A Lego Mindstorms NXT Robot programmed to explore and map unknown mazes populated with objects to capture, seesaws to traverse and barcodes to scan and to execute its corresponding actions.
+A Lego Mindstorms NXT Robot programmed (via leJOS) to explore and map unknown mazes populated with objects to capture, seesaws to traverse and barcodes to scan and to execute its corresponding actions.
 
 4 (differently designed and programmed) Lego Mindstorms NXT Robots play the game *Team Treasure Trek*. Each robot is dropped at some unknown location in an unknown maze with the goal of capturing a specific object (identifiable through a barcode). Once a robot captures its specific object, the associated barcode assigns that robot to a parter robot. Partner robots can communicate with each other to share their explored parts of the maze and to decide on a common meeting location. The two partner robots that meet first, both in possession of their captured object, win the game.
 
