@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/matt77hias/MazeStormer/blob/master/res/MazeStormer.png"></p>
+
 # MazeStormer
 
 Course Problem solving and Design Computer Science: MazeStormer
