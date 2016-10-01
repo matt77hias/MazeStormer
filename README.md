@@ -1,6 +1,6 @@
 # MazeStormer
 
-Course Problem solving and Design: Computer Sciences: MazeStormer
+Course Problem solving and Design Computer Science: MazeStormer
 
 **Team Bronze**:
 * [Dennis Frett](https://github.com/dennis-frett) (Computer Science)
