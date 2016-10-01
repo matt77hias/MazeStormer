@@ -15,6 +15,5 @@ Course Problem solving and Design Computer Science: MazeStormer
 
 ## Video
 
-[![Traversing the Seesaw](http://img.youtube.com/vi/PkklxX5FeSE/0.jpg)](https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1 "Traversing the Seesaw")
-
-[![Object Capturing](http://img.youtube.com/vi/WiFAeo-Ifsk/0.jpg)](https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1 "Object Capturing")
+<p align="center"><a href="https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1"><img src="http://img.youtube.com/vi/PkklxX5FeSE/0.jpg" width="430"></a><a href="https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1"><img src="http://img.youtube.com/vi/WiFAeo-Ifsk/0.jpg" width="430"></a></p>
+<p align="center">Traversing the Seesaw - Object Capturing</p>
