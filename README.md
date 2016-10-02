@@ -6,8 +6,8 @@ Course Problem solving and Design Computer Science: MazeStormer
 
 **Team Bronze**:
 * [Dennis Frett](https://github.com/dennis-frett) (Computer Science)
-* [Mattias Buelens](http://github.com/MattiasBuelens) (Computer Science)
 * [Matthias Moulin](https://github.com/matt77hias) (Computer Science)
+* [Mattias Buelens](http://github.com/MattiasBuelens) (Computer Science)
 * [Stijn Hoskes](https://github.com/stijnhoskens) (Computer Science)
 * [Vital D'haveloose](http://github.com/vital-dhaveloose) (Computer Science)
 
