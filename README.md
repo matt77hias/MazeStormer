@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/matt77hias/MazeStormer/blob/master/res/MazeStormer.png"></p>
+<p align="center"><img src="res/MazeStormer.png"></p>
 
 # MazeStormer
 
@@ -20,5 +20,10 @@ A Lego Mindstorms NXT Robot programmed (via leJOS) to explore and map unknown ma
 
 ## Video
 
-<p align="center"><a href="https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1" title="Traversing the Seesaw"><img src="http://img.youtube.com/vi/PkklxX5FeSE/0.jpg" width="430"></a><a href="https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1" title="Object Capturing"><img src="http://img.youtube.com/vi/WiFAeo-Ifsk/0.jpg" width="430"></a></p>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=PkklxX5FeSE?autoplay=1" title="Traversing the Seesaw">
+<img src="http://img.youtube.com/vi/PkklxX5FeSE/0.jpg" width="430"></a>
+<a href="https://www.youtube.com/watch?v=WiFAeo-Ifsk?autoplay=1" title="Object Capturing">
+<img src="http://img.youtube.com/vi/WiFAeo-Ifsk/0.jpg" width="430"></a></p>
+
 <p align="center">Traversing the Seesaw - Object Capturing</p>
