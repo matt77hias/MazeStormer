@@ -1,5 +1,10 @@
 <p align="center"><img src="res/MazeStormer.png"></p>
 
+[![License][s1]][li]
+
+[s1]: https://img.shields.io/badge/licence-GPL%203.0-blue.svg
+[li]: https://raw.githubusercontent.com/matt77hias/MazeStormer/master/LICENSE.txt
+
 # MazeStormer
 
 Course Problem solving and Design Computer Science: MazeStormer
